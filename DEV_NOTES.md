@@ -24,3 +24,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Added basic usage examples to README
 - Added healthcheck endpoint stub
+
+## 2026-03-23
+- Reviewed security headers configuration
+- Added healthcheck endpoint stub
