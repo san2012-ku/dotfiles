@@ -19,3 +19,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Tested build on clean environment
 - Verified API endpoint response schema
+
+## 2026-03-23
+- Added inline documentation for core functions
+- Added basic usage examples to README
+- Added healthcheck endpoint stub
